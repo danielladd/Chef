@@ -1,5 +1,5 @@
-source "https://api.berkshelf.com"
-
+#source "https://api.berkshelf.com"
+source "http://berksapi.nexus.commercehub.com"
 
 metadata
 
